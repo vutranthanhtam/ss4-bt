@@ -1,0 +1,28 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    max-width: 1000px;
+    margin: auto;
+
+}
+div{
+    background-image: url(https://toquoc.mediacdn.vn/280518851207290880/2023/4/5/3333380841899454470574571287910598869949696n-1680712798929833722222.jpeg);
+    background-size: cover;
+    
+}
+.aa{
+    margin-bottom: 20px;
+    padding: 20px;
+}
+button{
+    background-color: orangered;
+    width: 250px;
+    height: 30px;
+    margin-left:375px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+
+}

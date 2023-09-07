@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    max-width: 600px;
+    margin: auto;
+    background-color: #F2F2F2;
+}
+form{
+    margin: 0 auto;
+    background-color: #FAEDD6;
+    padding: 10px;
+}
+input{
+    width: 95%;
+    margin-left: 3%;
+    background-color:#F2F2F2 ;
+    height: 30px;
+    margin-bottom: 15px;
+}
+input.aa{
+    width: 20%;
+    background-color: #0087BD;
+}
